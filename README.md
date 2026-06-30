@@ -1,16 +1,16 @@
-# LuminaryTrade
+# InterTrade
 
 > **A TypeScript monorepo that connects blockchain integrations (Stellar + Soroban) with AI services for trading, credit scoring, fraud detection, and risk automation.**
 
 ---
 
-## 📖 What is LuminaryTrade?
+## 📖 What is InterTrade?
 
-**LuminaryTrade** is a production-ready platform for building AI-driven financial services on the Stellar blockchain. It bridges decentralized finance (DeFi) with artificial intelligence to enable trustless, intelligent financial services.
+**InterTrade** is a production-ready platform for building AI-driven financial services on the Stellar blockchain. It bridges decentralized finance (DeFi) with artificial intelligence to enable trustless, intelligent financial services.
 
 ### What It Does
 
-LuminaryTrade combines three core pillars:
+InterTrade combines three core pillars:
 
 1. **Stellar Blockchain Integration**
    - Direct connection to Stellar Horizon API for account data, transaction history, and on-chain state
@@ -31,7 +31,7 @@ LuminaryTrade combines three core pillars:
 
 ### What It's For
 
-LuminaryTrade enables teams to rapidly build:
+InterTrade enables teams to rapidly build:
 
 - **🏦 Lending Platforms**: Automated credit scoring and underwriting with blockchain verification
 - **🚨 Fraud Prevention Systems**: Real-time transaction monitoring and anomaly detection
@@ -100,7 +100,7 @@ LuminaryTrade enables teams to rapidly build:
 ## 📁 Project Structure
 
 ```text
-luminarytrade/
+InterTrade/
 ├── backend/                  # Backend services and APIs
 │   ├── src/                  # API source code (controllers, services, models)
 │   ├── tests/                # Unit & integration tests
@@ -143,8 +143,8 @@ luminarytrade/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/GameChangable/luminarytrade.git
-cd luminarytrade
+git clone https://github.com/GameChangable/InterTrade.git
+cd InterTrade
 ```
 
 2. **Install dependencies**
@@ -250,7 +250,7 @@ pnpm deploy:testnet
 ### Using the Core SDK
 
 ```typescript
-import { StellarConnector, AIService, CreditScorer } from '@luminarytrade/core';
+import { StellarConnector, AIService, CreditScorer } from '@InterTrade/core';
 
 // Initialize Stellar connection
 const stellar = new StellarConnector({
@@ -527,7 +527,7 @@ See `CONTRIBUTING.md` for detailed guidelines.
 - **`docs/api-reference.md`** - Complete API endpoint documentation
 - **`docs/smart-contracts.md`** - Contract architecture and deployment
 - **`docs/deployment.md`** - Production deployment guide
-- **`docs/integration-guide.md`** - How to integrate LuminaryTrade
+- **`docs/integration-guide.md`** - How to integrate InterTrade
 - **`docs/ai-providers.md`** - AI provider configuration
 - **`docs/troubleshooting.md`** - Common issues and solutions
 
@@ -537,7 +537,7 @@ See `CONTRIBUTING.md` for detailed guidelines.
 
 - **Issues**: Open an issue for bug reports or feature requests
 - **Discussions**: Use GitHub Discussions for questions and ideas
-- **Email**: contact@luminarytrade.dev
+- **Email**: contact@InterTrade.dev
 
 ---
 
@@ -577,4 +577,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Last Updated**: June 5, 2026
 
-For the latest updates, visit [GitHub](https://github.com/GameChangable/luminarytrade).
+For the latest updates, visit [GitHub](https://github.com/GameChangable/InterTrade).
