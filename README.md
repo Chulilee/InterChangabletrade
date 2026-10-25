@@ -143,8 +143,8 @@ InterTrade/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/GameChangable/InterTrade.git
-cd InterTrade
+git clone https://github.com/Chulilee/InterChangabletrade.git
+cd InterChangabletrade
 ```
 
 2. **Install dependencies**
@@ -577,4 +577,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Last Updated**: June 5, 2026
 
-For the latest updates, visit [GitHub](https://github.com/GameChangable/InterTrade).
+For the latest updates, visit [GitHub](https://github.com/Chulilee/InterChangabletrade).
