@@ -287,7 +287,7 @@ Same as LuminaryTrade project license.
 ## Support
 
 For issues or questions:
-- GitHub Issues: https://github.com/A6dulmalik/luminarytrade/issues
+- GitHub Issues: https://github.com/Chulilee/InterChangabletrade/issues
 - Documentation: See main project README
 
 ---

@@ -78,7 +78,6 @@ console.log('Is Fraud:', isFraud);
 ## Next Steps
 
 - Check out our [API Reference](./api-reference.md)
-- Explore [Tutorials](./tutorials/)
 - Look at [Examples](../examples/) for complete applications
 - Join our community for support and contributions
 
